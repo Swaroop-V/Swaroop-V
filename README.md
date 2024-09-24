@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swaroop-V
+- 👋 Hi, I’m Swaroop.
 - 🌱 I'm a passionate web developer specializing in building responsive and dynamic websites using: HTML, CSS, Bootstrap, JavaScript and Node.js
 - 👨🏻‍💻 I love crafting clean, user-friendly designs and optimizing code for performance.
 - 💞️ I like bird photography and cricket.
